@@ -14,7 +14,7 @@
 - [plugin-content-blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) (official) - The default blog plugin.
 - [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 - [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
-]
+
 ### Data sources
 
 - [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) - Generate Markdown documentation from a GraphQL schema.
@@ -27,7 +27,11 @@
 
 ### Search
 
-- [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) Create search index for use with Lunr.js.
+- [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) - Create search index for use with Lunr.js.
+
+### Sidebars
+
+- [docusaurus-plugin-auto-sidebars](https://github.com/acrobit/docusaurus-plugin-auto-sidebars) - Automatically generate sidebars from Markdown files.
 
 ### Search Engine Optimisation (SEO)
 
@@ -47,14 +51,14 @@
 ### Miscellaneous 
 
 - [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
-- [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) Source code API documentation powered by TypeDoc.
+- [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) - Source code API documentation powered by TypeDoc.
 
 ## Themes
 
 - [theme-classic](https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic) (official) - The default theme.
 - [theme-live-codeblock](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock) (official) - A theme for live code blocks.
 - [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
-- [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) Typesense search component.
+- [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - Typesense search component.
 
 
 ## Contribute
