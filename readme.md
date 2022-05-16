@@ -41,6 +41,7 @@
 ### Miscellaneous
 
 - [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - Add PWA support using Workbox.
+- [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) Source code API documentation powered by TypeDoc
 
 ## Contribute
 
