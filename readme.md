@@ -1,8 +1,9 @@
 # Awesome Docusaurus
 
-<div align="center">
-  <img src="./docusaurus.png" alt="Docusaurus" width="200" />
+<!--suppress CheckImageSize -->
 
+<div align="center">
+  <a href="https://docusaurus.io/"><img src="./docusaurus.png" alt="Docusaurus" width="100" height="100"/></a>
 
   > A curated list of awesome Docusaurus resources
 
