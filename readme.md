@@ -15,7 +15,11 @@
 - [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 - [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
 
-### Media
+### Data sources
+
+- [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) - Download content from remote sources
+
+### Media display
 
 - [plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) (official) - Responsive images with lazy-loading.
 - [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) - easily integrate `medium-zoom`.
