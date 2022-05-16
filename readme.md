@@ -38,12 +38,13 @@
 - [plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) (official) - The default Google Analytics (GA) plugin.
 - [plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) (official) - The default Global Site Tag (gtag.js) plugin.
 - [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) - Google Tag Manager (GTM) plugin.
+- [docusaurus-matomo-plugin](https://github.com/karser/docusaurus-plugin-matomo) - Matomo Analytics plugin.
 
 ### Debugging
 
 - [plugin-debug](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-debug) (official) - Display useful debug information for plugin authors.
 
-### Miscellaneous
+### Miscellaneous 
 
 - [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 - [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) Source code API documentation powered by TypeDoc.
