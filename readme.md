@@ -6,6 +6,7 @@
 ## Contents
 
 - [Plugins](#plugins)
+- [Themes](#themes)
 
 ## Plugins
 
@@ -47,6 +48,11 @@
 
 - [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 - [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) Source code API documentation powered by TypeDoc
+
+## Themes
+
+- [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) Typesense search component
+
 
 ## Contribute
 
