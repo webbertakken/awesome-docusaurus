@@ -18,6 +18,7 @@
 ### Media
 
 - [plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) (official) - Responsive images with lazy-loading.
+- [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) - easily integrate `medium-zoom`.
 
 ### Search Engine Optimisation (SEO)
 
