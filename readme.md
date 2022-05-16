@@ -14,9 +14,10 @@
 - [plugin-content-blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) (official) - The default blog plugin.
 - [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 - [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
-
+]
 ### Data sources
 
+- [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) - Generate Markdown documentation from a GraphQL schema
 - [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) - Download content from remote sources
 
 ### Media display
