@@ -22,7 +22,11 @@
 ### Media display
 
 - [plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) (official) - Responsive images with lazy-loading.
-- [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) - easily integrate `medium-zoom`.
+- [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) - Easily integrate `medium-zoom`.
+
+### Search
+
+- [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) Create search index for use with Lunr.js
 
 ### Search Engine Optimisation (SEO)
 
@@ -40,7 +44,7 @@
 
 ### Miscellaneous
 
-- [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - Add PWA support using Workbox.
+- [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 - [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) Source code API documentation powered by TypeDoc
 
 ## Contribute
