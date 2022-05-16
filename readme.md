@@ -1,28 +1,40 @@
-# awesome-docusaurus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Docusaurus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome docusaurus resources
+> A curated list of awesome Docusaurus resources
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Plugins](#plugins)
 
+## Plugins
 
-## Section
+### Content
 
-About this section. Optional. Keep this short and focus on the list.
+- @docusaurus/[plugin-content-blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) The default blog plugin.
+- @docusaurus/[plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) - The default docs plugin.
+- @docusaurus/[plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) - The default pages plugin.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Media
 
+- @docusaurus/[plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) - Responsive images with lazy-loading.
 
-## Another Section
+### Search Engine Optimisation (SEO)
 
-### Subsection
+- @docusaurus/[plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) - Generate a sitemap.xml file for search engines.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Tracking
+
+- @docusaurus/[plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) - The default Google Analytics (GA) plugin.
+- @docusaurus/[plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) - The default Global Site Tag (gtag.js) plugin.
+
+### Debugging
+
+- @docusaurus/[plugin-debug](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-debug) - Display useful debug information for plugin authors.
+
+### Miscellaneous
+
+- @docusaurus/[plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) - Add PWA support using Workbox.
 
 
 ## Contribute
