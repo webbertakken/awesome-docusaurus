@@ -27,6 +27,7 @@
 
 - @docusaurus/[plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) - The default Google Analytics (GA) plugin.
 - @docusaurus/[plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) - The default Global Site Tag (gtag.js) plugin.
+- [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) - Google Tag Manager (GTM) plugin.
 
 ### Debugging
 
