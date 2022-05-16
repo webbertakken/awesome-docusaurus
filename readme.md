@@ -1,7 +1,14 @@
-# Awesome Docusaurus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Docusaurus
 
-> A curated list of awesome Docusaurus resources
+<div align="center">
+  <img src="./docusaurus.png" alt="Docusaurus" width="200" />
 
+
+  > A curated list of awesome Docusaurus resources
+
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+ 
 ## Contents
 
 - [Plugins](#plugins)
