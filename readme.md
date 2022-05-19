@@ -50,7 +50,7 @@
 - [plugin-google-analytics](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics) (official) - The default Google Analytics (GA) plugin.
 - [plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) (official) - The default Global Site Tag (gtag.js) plugin.
 - [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) - Google Tag Manager (GTM) plugin.
-- [docusaurus-matomo-plugin](https://github.com/karser/docusaurus-plugin-matomo) - Matomo Analytics plugin.
+- [docusaurus-plugin-matomo](https://github.com/karser/docusaurus-plugin-matomo) - Matomo Analytics plugin.
 
 ### Debugging
 
