@@ -28,6 +28,7 @@
 
 - [docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) - Generate Markdown documentation from a GraphQL schema.
 - [docusaurus-plugin-remote-content](https://github.com/rdilweb/docusaurus-plugin-remote-content) - Download content from remote sources.
+- [docusaurus-openapi-docs](https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/) - Genertate Markdown documentation from an OpenAPI specification.
 
 ### Media display
 
