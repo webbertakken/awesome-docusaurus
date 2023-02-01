@@ -38,6 +38,7 @@
 ### Search
 
 - [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) - Create search index for use with Lunr.js.
+- [docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) - Offline / local search that works behind your firewall.
 
 ### Sidebars
 
