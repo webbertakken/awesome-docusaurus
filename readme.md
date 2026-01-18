@@ -34,6 +34,7 @@
 
 - [plugin-ideal-image](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image) (official) - Responsive images with lazy-loading.
 - [docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) - Easily integrate `medium-zoom`.
+- [heroshot](https://github.com/omachala/heroshot) - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
 
 ### Search
 
