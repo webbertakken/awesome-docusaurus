@@ -48,6 +48,7 @@
 ### Search Engine Optimisation (SEO)
 
 - [plugin-sitemap](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap) (official) - Generate a sitemap.xml file for search engines.
+- [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) - Automatically generate JSON-LD structured data (schema.org) for SEO.
 
 ### Tracking
 
