@@ -38,9 +38,9 @@
 
 ### Search
 
-- [docusaurus-biel](https://github.com/TechDocsStudio/docusaurus-biel) - AI chat and search that answers questions from your documentation, with citations to the source pages.
 - [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) - Create search index for use with Lunr.js.
 - [docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) - Offline / local search that works behind your firewall.
+- [docusaurus-biel](https://github.com/TechDocsStudio/docusaurus-biel) - AI chat and search that answers questions from your documentation, with citations to the source pages.
 
 ### Sidebars
 
