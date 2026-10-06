@@ -59,6 +59,7 @@
 - [plugin-google-gtag](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag) (official) - The default Global Site Tag (gtag.js) plugin.
 - [docusaurus-gtm-plugin](https://github.com/LukasGentele/docusaurus-gtm-plugin) - Google Tag Manager (GTM) plugin.
 - [docusaurus-plugin-matomo](https://github.com/karser/docusaurus-plugin-matomo) - Matomo Analytics plugin.
+- [@ciphera-net/pulse-docusaurus](https://github.com/ciphera-net/pulse-docusaurus) - Pulse Analytics plugin. Privacy-first, no cookies.
 
 ### Debugging
 
