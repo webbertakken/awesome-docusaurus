@@ -52,6 +52,7 @@
 - [docusaurus-plugin-structured-data](https://github.com/CoffeeCupTechWriting/docusaurus-plugin-structured-data) - Automatically generate JSON-LD structured data (schema.org) for SEO.
 - [@aeorank/docusaurus](https://github.com/vinpatel/aeorank/tree/main/packages/docusaurus) - Scores your docs site's AI visibility and generates the 9 files (llms.txt, ai.txt, CLAUDE.md, ...) that ChatGPT and Perplexity read.
 - [docusaurus-plugin-copy-page-button](https://github.com/portdeveloper/docusaurus-plugin-copy-page-button) - Adds a "Copy page" button that exports doc pages as clean markdown for ChatGPT, Claude, and Gemini.
+- [docusaurus-plugin-myog](https://github.com/MyOG-social/docusaurus-plugin-myog) - Adds a per-page `og:image` and `twitter:image`, generated from each page's URL by MyOG.social (paid service).
 
 ### Tracking
 
