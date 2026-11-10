@@ -69,6 +69,7 @@
 
 - [plugin-pwa](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-pwa) (official) - PWA support using Workbox.
 - [docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) - Source code API documentation powered by TypeDoc.
+- [docusaurus-plugin-onlinecompiler](https://github.com/onlinecompiler-io/docusaurus-plugin-onlinecompiler) - Runnable code blocks: add `runnable` to a code block and readers edit and run it in the page, in 46 languages, with the code run in a sandbox by OnlineCompiler.io.
 
 ## Themes
 
