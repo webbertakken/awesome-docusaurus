@@ -79,6 +79,7 @@
 - [theme-search-algolia](https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia) (official) - Algolia search component.
 - [docusaurus-theme-search-typesense](https://github.com/typesense/docusaurus-theme-search-typesense) - Typesense search component.
 - [cosmos-docusaurus-theme](https://github.com/SckyzO/cosmos-docusaurus-theme) - Clean, dark-first, CSS-only theme with Void/Slate palettes, self-hosted Outfit + IBM Plex Mono, and WCAG AA colors.
+- [docusaurus-theme-quiet](https://github.com/TechDocsStudio/docusaurus-theme-quiet) - Minimal theme with configurable branding and a consistent interface for guides, API references, and extensions.
 
 
 ## Contribute
