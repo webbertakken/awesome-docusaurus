@@ -23,6 +23,7 @@
 - [plugin-content-docs](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs) (official) - The default docs plugin.
 - [plugin-content-pages](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages) (official) - The default pages plugin.
 - [docusaurus-plugin-content-gists](https://github.com/webbertakken/docusaurus-plugin-content-gists) - Content plugin for displaying your GitHub gists.
+- [docusaurus-plugin-suggest-edits](https://github.com/ManKindCoffee/docusaurus-plugin-suggest-edits) - Let readers suggest edits from the page and receive them as pull requests on GitHub or Azure DevOps.
 
 ### Data sources
 
