@@ -40,6 +40,7 @@
 
 - [docusaurus-plugin-lunr](https://github.com/daldridge/docusaurus-plugin-lunr) - Create search index for use with Lunr.js.
 - [docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) - Offline / local search that works behind your firewall.
+- [docusaurus-plugin-docsense](https://github.com/meharshit/docsense) - Build-time local search that indexes Markdown/MDX into static JSON with a navbar SearchBar (no Algolia).
 - [docusaurus-biel](https://github.com/TechDocsStudio/docusaurus-biel) - AI chat and search that answers questions from your documentation, with citations to the source pages.
 
 ### Sidebars
